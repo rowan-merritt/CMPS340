@@ -8,11 +8,12 @@ Boolean
 Float
 Int
 Complex
+Tuple
+Set
 
 IMMUTABLE OBJECT TYPES
 #ENTER ONE TYPE PER LINE, REMOVE THIS LINE
 String
-Tuple
-Set
+
 
 
