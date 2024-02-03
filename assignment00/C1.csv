@@ -1,19 +1,26 @@
 Name,ID
 <ENTER YOUR NAME>,<ENTER YOUR ID> #REMOVE "<", ">" and this comment
 
+Carrington Wynn, 0731024
+Aubrey Merritt, 0749642
 MUTABLE OBJECT TYPES	
 #ENTER ONE TYPE PER LINE, REMOVE THIS LINE
 List
-Boolean
-Float
-Int
-Complex
-Tuple
+Dictionary 
 Set
+Byte Array
+User Define Classes 
 
 IMMUTABLE OBJECT TYPES
 #ENTER ONE TYPE PER LINE, REMOVE THIS LINE
 String
-
-
+Tuple
+Frozen Set
+Int
+Boolean
+Float
+Complex
+Character 
+Byte Sequences 
+Byte 
 
