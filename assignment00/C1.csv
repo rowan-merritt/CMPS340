@@ -18,7 +18,7 @@ Int
 Boolean
 Float
 Complex
-Character 
-Byte Sequences 
+Character //this is NOT an object type
+Byte Sequences //this is NOT an object type 
 Byte 
 
